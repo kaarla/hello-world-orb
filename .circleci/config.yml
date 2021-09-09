@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-    hello: circleci/hello-build@volatile
+    hello: kaarla/hello-orb@0.0.1
 
 workflows:
     "Hello Workflow":
